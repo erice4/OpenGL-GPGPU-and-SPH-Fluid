@@ -1,0 +1,20 @@
+#include "Compute.h"
+
+
+namespace doGPU
+{
+  Compute::Compute()
+  {
+    
+  }
+  
+  Compute::~Compute()
+  {
+    
+  }
+  
+  void Compute::initialize()
+  {
+    
+  }
+}
